@@ -73,4 +73,10 @@ The actual tool is private and used only in legal environments.
 
 ---
 
+## 🔐  Security
+
+🔐 [View Security & Responsible Disclosure Policy](./SECURITY.md)
+
+---
+
 © 2025 Ishtiaq Ahmed – All Rights Reserved
