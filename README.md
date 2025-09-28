@@ -29,7 +29,7 @@ It serves only as a **showcase** of a private tool built for **cybersecurity edu
 ## 📽️ Demo Video
 
 Watch the private YouTube demo here:  
-🎥 [Danger3 Demo](https://www.youtube.com/watch?v=06lCGoarKbs)
+🎥 Due to privacy reasons, I am unable to share the video URL. However, you can access it on my Notion page.
 
 ---
 
