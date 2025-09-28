@@ -1,6 +1,6 @@
 # Danger3 – OTP Simulation Tool for Ethical Cybersecurity Research
 
-📌 **Version:** 1.0  
+📌 **Version:** 3.01  
 🛠️ **Developer:** Ishtiaq Ahmed  
 📧 **Contact:** withishtiaq@gmail.com  
 
