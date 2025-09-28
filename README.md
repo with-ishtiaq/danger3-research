@@ -1,42 +1,76 @@
-# danger3-research
-Danger3 — research artifacts and controlled demos (redacted). Study of OTP request behaviors, rate-limit analysis, and mitigation recommendations. No weaponized code included.
+# Danger3 – OTP Simulation Tool for Ethical Cybersecurity Research
 
-
-# Danger3 — Research Artifacts (Safe / Redacted)
-
-**Version:** 3.01  
-**Developer:** Ishtiaq Ahmed  
-**Contact:** withishtiaq@gmail.com
+📌 **Version:** 1.0  
+🛠️ **Developer:** Ishtiaq Ahmed  
+📧 **Contact:** withishtiaq@gmail.com  
 
 ---
 
-## Overview
+## 🚨 IMPORTANT NOTICE
 
-This repository contains research artifacts, analysis, and controlled demos related to Danger3, a study of automated OTP request behaviors and service rate-limit responses.
-
-**Important:** This public repository intentionally omits any runnable or weaponized SMS-bomber code. All demos are run in a local, simulated environment. Do NOT use these materials to target real services or phone numbers.
-
----
-
-## Public Contents
-
-- High-level architecture and methodology (docs/)
-- Local demo assets for simulation (demos/local-demo/) — runs only against mock servers
-- Analysis notebooks and charts (analyses/)
-- Screenshots and an unlisted demo video (media/)
-
-Demo (unlisted): https://www.youtube.com/watch?v=06lCGoarKbs
+This repository **does NOT contain any tool, source code, or executable file**.  
+It serves only as a **showcase** of a private tool built for **cybersecurity education and awareness**.
 
 ---
 
-## Responsible Use & Access to Full Artifacts
+## 🧠 What is Danger3?
 
-If you require access to full artifacts (binaries, source, or private demos) for legitimate research, please contact me at withishtiaq@gmail.com and include:
-- Your full name and institutional affiliation
-- Institutional email address
-- Purpose of access and description of intended use
-- Any relevant publications or CV
+**Danger3** is a Windows-based desktop automation tool built for:
+- Cybersecurity research & training
+- Simulated OTP request loops
+- Awareness against SMS-based threats
+- Stress testing in **controlled lab environments only**
 
-Private access may require verification such as institutional email or an NDA.
+> 🛑 Not intended for malicious use  
+> ✅ Built for ethical testing & simulation
 
 ---
+
+## 📽️ Demo Video
+
+Watch the private YouTube demo here:  
+🎥 [Danger3 Demo](https://www.youtube.com/watch?v=06lCGoarKbs)
+
+---
+
+## 💻 Usage Context
+
+- Enter valid Bangladeshi number (01...)
+- Specify loop count
+- Launch simulated OTP request loop
+- Monitor responses for testing awareness
+
+---
+
+## 🛡️ Disclaimer
+
+This project is created **strictly for educational purposes**.  
+The tool itself is **not distributed**, and the developer:
+- ❌ Does NOT promote illegal use
+- ❌ Is NOT responsible for misuse
+- ✅ Encourages ethical hacking only
+
+Use only in:
+- ✅ Pen-test labs  
+- ✅ Cyber awareness workshops  
+- ✅ Red-team exercises
+
+---
+
+## 🗂️ More Information
+
+To know more about this research project or collaborate:
+📧 Email: withishtiaq@gmail.com
+
+> Tool is only shared under NDA for ethical purposes.
+
+---
+
+### 📢 Note
+
+This is a **non-functional public showcase** of the project.  
+The actual tool is private and used only in legal environments.
+
+---
+
+© 2025 Ishtiaq Ahmed – All Rights Reserved
